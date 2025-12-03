@@ -6,3 +6,6 @@ Scripts made for generating 3D models in Blender
 
 - tree.py
 <img width="583" height="729" alt="image" src="https://github.com/user-attachments/assets/e01bb83f-d7bc-4b0c-a555-8b300abc2825" />
+
+- map_from_image.py
+<img width="2262" height="925" alt="image" src="https://github.com/user-attachments/assets/d22c2173-5afd-4559-b161-2cfc912c7a1b" />
